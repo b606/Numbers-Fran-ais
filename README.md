@@ -1,2 +1,2 @@
-# Numbers-Fran-ais
+# Numbers-Francais
 Traduction française du mod RimWorld Numbers
