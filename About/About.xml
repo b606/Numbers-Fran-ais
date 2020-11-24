@@ -29,37 +29,6 @@
   </loadAfter>
   <description>Numbers [Français] offre la traduction française du mod &lt;b&gt;Numbers&lt;/b&gt; qui permet de voir toutes les statistiques sur chaque colon ou prisonnier en un seul tableau. Cela permet de savoir d'un seul coup d'œil qui est le meilleur médecin, et comment assigner au mieux les équipements.
 
-- Onglet de vue d'ensemble personnalisable, affiche autant de colonnes que vous pouvez en mettre sur votre écran.
-- Affiche les statistiques, les compétences, les besoins, l'équipement, les tâches en attente, etc.
-- Contrôles des prisonniers et du personnel médical, aperçu du matériel, tâche actuel.
-- Un onglet "médical" dédié à la vue d'ensemble de l'état de santé de tous les personnages.
-- Fonctionne avec les colons, les prisonniers, les ennemis, les animaux, les animaux sauvages et même les cadavres.
-- Préréglages : enregistrez, chargez, déplacez et partagez vos vues personnalisées. Sauvegardez-les comme vues par défaut.
-
 Le mod Numbers a été originellement développé par koisama, ensuite étendu par Mehni (un fork existe aussi par TalliDown).
-
-&lt;b&gt;Téléchargement&lt;/b&gt;
-GitHub : https://github.com/b606/Numbers-Francais/releases/latest
-
-&lt;b&gt;Autres mods&lt;/b&gt;
-EdB Prepare Carefully [Français]
-Traduction en français de EdB Prepare Carefully.
-Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081907934
-
-Parlez-vous français ? [LanguageWorker_French Mod]
-Mod optimisant le français dans tout le jeu de RimWorld.
-Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369
-
-¿Habla usted español? [anguageWorker_Spanish Mod]
-Un mod para mejorar el español en RimWorld.
-Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2293997580
-
-Numbers Trait AddOn [Français]
-Traduction française du mod &lt;b&gt;Numbers Trait AddOn&lt;/b&gt; 
-Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691905
-
-&lt;b&gt;Pour m'encourager&lt;/b&gt;
-- une petite pouce approbatrice
-- j'adore aussi le kofi https://ko-fi.com/b606at0116
   </description>
 </ModMetaData>
