@@ -38,7 +38,7 @@
   <Numbers_NeedsTreatment.label>Besoin de soins</Numbers_NeedsTreatment.label>
   <Numbers_NeedsTreatment.headerTip>Besoin de soins</Numbers_NeedsTreatment.headerTip>
   <Numbers_Operations.label>Opérations</Numbers_Operations.label>
-  <Numbers_Operations.headerTip>Opérations</Numbers_Operations.headerTip>
+  <Numbers_Operations.headerTip>Opérations médicales</Numbers_Operations.headerTip>
   <Numbers_Forbidden.label>Interdit</Numbers_Forbidden.label>
   <Numbers_Forbidden.headerTip>Interdit - vos colons n'interagiront pas avec ceci.</Numbers_Forbidden.headerTip>
   <Numbers_Inspiration.label>Inspiration</Numbers_Inspiration.label>
