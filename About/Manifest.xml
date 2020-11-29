@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-  <identifier>Numbers[Français]</identifier>
+  <identifier>b606.Numbers.Francais</identifier>
   <version>1.2.0</version>
   <dependencies>
-      <li>Numbers</li>
+      <li>Mehni.Numbers</li>
   </dependencies>
   <loadAfter>
-      <li>Numbers</li>
+      <li>Mehni.Numbers</li>
   </loadAfter>
   <showCrossPromotions>true</showCrossPromotions>
   <manifestUri>https://github.com/b606/Numbers-Francais/raw/main/About/Manifest.xml</manifestUri>
