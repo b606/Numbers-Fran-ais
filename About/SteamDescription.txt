@@ -1,5 +1,4 @@
 [h1]Numbers [Français][/h1]
-[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
 Numbers [Français] offre la traduction française du mod [b]Numbers[/b] qui permet de voir toutes les statistiques sur chaque colon ou prisonnier en un seul tableau. Cela permet de savoir d'un seul coup d'œil qui est le meilleur médecin, et comment assigner au mieux les équipements.
 
 [list]
@@ -18,25 +17,29 @@ GitHub : https://github.com/b606/Numbers-Francais/releases/latest
 
 [h1]Autres mods[/h1]
 [img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
-★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2302882174][b]Pack de traduction française[/b][/url]
-Contient toutes mes dernières traductions, y compris celles non encore distribuées dans Core et Royalty. 
-Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2302882174
-[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
 ★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2081907934][b]EdB Prepare Carefully [Français][/b][/url]
 Traduction en français de [b]EdB Prepare Carefully[/b].
 Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081907934
 [img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2286691905][b]Numbers Trait AddOn [Français][/b][/url]
+Traduction française du mod [b]Numbers Trait AddOn[/b].
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691905
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
 ★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369][b]Parlez-vous français ? [LanguageWorker_French Mod][/b][/url]
 Mod optimisant le français dans tout le jeu de RimWorld.
 Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369
-[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img] 
-★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2293997580][b]¿Habla usted español? [anguageWorker_Spanish Mod][/b][/url]
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2328660019][b]Rimatomics [Français][/b][/url]
+Traduction française du mod [b]Rimatomics[/b].
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2328660019
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2293997580][b]¿Habla usted español? [LanguageWorker_Spanish Mod][/b][/url]
 Un mod para mejorar el español en RimWorld.
 Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2293997580
 [img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
-★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2286691905][b]Numbers Trait AddOn [Français][/b][/url]
-Traduction française du mod [b]Numbers Trait AddOn[/b] 
-Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691905
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2302882174][b]Pack de traduction française[/b][/url]
+Contient toutes mes dernières traductions, y compris celles non encore distribuées dans Core et Royalty.
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2302882174
 [img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
 
 [h1]Pour m'encourager[/h1]
