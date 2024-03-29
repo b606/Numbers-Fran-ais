@@ -13,7 +13,8 @@
   <Numbers_Presets.Combat>combat</Numbers_Presets.Combat>
   <Numbers_Presets.WorkTabPlus>Worktab Plus</Numbers_Presets.WorkTabPlus>
   <Numbers_Presets.ColonistNeeds>besoins des colons</Numbers_Presets.ColonistNeeds>
-  
+  <Numbers_Presets.Psycasting>pouvoirs psychiques</Numbers_Presets.Psycasting>
+
   <Numbers_SetAsDefault>Vue courante comme vue par défaut</Numbers_SetAsDefault>
   <Numbers_SetAsDefaultExplanation>Configurer la vue courante comme vue par défaut pour ce type de personnage ({0}).\n\nCette vue pourra alors être utlisée pour d'autres colonies.\n\nPeut être supprimée dans le menu de configuration des mods :\n  [Menu] => [Options] => [Mod settings] => [Numbers].</Numbers_SetAsDefaultExplanation>
   <Numbers_NoDefaultStoredForThisView>Il n'y a pas de vue par défaut enregistrée pour le type de personnage courant.</Numbers_NoDefaultStoredForThisView>

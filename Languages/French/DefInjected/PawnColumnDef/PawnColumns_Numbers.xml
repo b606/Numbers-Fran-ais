@@ -11,14 +11,24 @@
   <Numbers_Milkfullness.headerTip>Montée de lait</Numbers_Milkfullness.headerTip>
   <Numbers_AnimalWoolGrowth.label>Croissance de la laine</Numbers_AnimalWoolGrowth.label>
   <Numbers_AnimalWoolGrowth.headerTip>Croissance de la laine</Numbers_AnimalWoolGrowth.headerTip>
+  <Numbers_LeatherType.label>Type de cuir</Numbers_LeatherType.label>
+  <Numbers_LeatherType.headerTip>Le type de cuir obtenu de cette créature une fois dépecée</Numbers_LeatherType.headerTip>
   <Numbers_Race.label>Race</Numbers_Race.label>
   <Numbers_Race.headerTip>Race</Numbers_Race.headerTip>
   <Numbers_Backstory.label>Historique</Numbers_Backstory.label>
   <Numbers_Backstory.headerTip>Historique</Numbers_Backstory.headerTip>
+  <Numbers_Psyfocus.label>Concentration psychique</Numbers_Psyfocus.label>
+  <Numbers_Psyfocus.headerTip>La concentration psychique est un type spécial de structuration mentale nécessaire pour utiliser les pouvoirs psychiques</Numbers_Psyfocus.headerTip>
+  <Numbers_Entropy.label>Échauffement neuronal</Numbers_Entropy.label>
+  <Numbers_Entropy.headerTip>Le dépassement de la limite d'échauffement peut entraîner des longues dépressions psychiques</Numbers_Entropy.headerTip>
+  <Numbers_PsylinkLevel.label>Niveau de liens psychiques</Numbers_PsylinkLevel.label>
+  <Numbers_PsylinkLevel.headerTip>Un niveau plus élevé donne des pouvoirs psychiques plus puissants</Numbers_PsylinkLevel.headerTip>
   <Numbers_Equipment.label>Équipement</Numbers_Equipment.label>
   <Numbers_Equipment.headerTip>Équipement</Numbers_Equipment.headerTip>
   <Numbers_Inventory.label>Inventaire</Numbers_Inventory.label>
   <Numbers_Inventory.headerTip>Inventaire</Numbers_Inventory.headerTip>
+  <Numbers_InventoryDropAll.label>Décharger tout l'inventaire</Numbers_InventoryDropAll.label>
+<!--   <Numbers_InventoryDropAll.headerTip>Déposer tout l'inventaire</Numbers_InventoryDropAll.headerTip> -->
   <Numbers_JobCurrent.label>Tâche en cours</Numbers_JobCurrent.label>
   <Numbers_JobCurrent.headerTip>Tâche en cours</Numbers_JobCurrent.headerTip>
   <Numbers_JobQueued.label>Tâche en attente</Numbers_JobQueued.label>
@@ -52,11 +62,35 @@
   <Numbers_TameChance.headerTip>Chances d'apprivoiser</Numbers_TameChance.headerTip>
   <Numbers_SelfTend.headerTip>Auto-soin</Numbers_SelfTend.headerTip>
   <Numbers_HediffList.headerTip>Maladies</Numbers_HediffList.headerTip>
+  <Numbers_HediffBadList.headerTip>Maladies graves</Numbers_HediffBadList.headerTip>
   <Numbers_Faction.label>Faction</Numbers_Faction.label>
   <Numbers_Faction.headerTip>La faction à laquelle appartient actuellement le personnage.</Numbers_Faction.headerTip>
   <Numbers_AnimalFilthRate.label>Saleté de l'animal</Numbers_AnimalFilthRate.label>
   <Numbers_AnimalFilthRate.headerTip>Cet indicateur représente la saleté moyenne produite par cet animal.</Numbers_AnimalFilthRate.headerTip>
   <Numbers_Meditation.label>Méditation</Numbers_Meditation.label>
   <Numbers_Meditation.headerTip>Chaque personnage peut méditer sur différents types d'objets.</Numbers_Meditation.headerTip>
+  <Numbers_Areas.label>Zone autorisée</Numbers_Areas.label>
+<!--   <Numbers_Areas.headerTip>Zone autorisée</Numbers_Areas.headerTip> -->
+  <Numbers_Traits.label>Traits</Numbers_Traits.label>
+  <Numbers_Bandwidth.label>Bande passante</Numbers_Bandwidth.label>
+  <Numbers_Bandwidth.headerTip>Quantité de bande passante dont dispose un méchanitor</Numbers_Bandwidth.headerTip>
+  <Numbers_Endogenes.label>Gènes germinaux</Numbers_Endogenes.label>
+  <Numbers_Endogenes.headerTip>Gènes hérités naturellement qui se trouvent dans chaque cellule du corps d'un organisme et ne nécessitent aucun support externe. Ils sont transmis de parent à enfant.</Numbers_Endogenes.headerTip>
+  <Numbers_Xenogenes.label>Xénogènes</Numbers_Xenogenes.label>
+  <Numbers_Xenogenes.headerTip>Gènes dérivés d'un xénogerme implanté. Si le xénogerme est supprimé ou remplacé, les xénogènes disparaîtront. Ne sont pas transmis aux enfants.</Numbers_Xenogenes.headerTip>
+  <Numbers_GenesRegrowTime.label>Temps de régénération</Numbers_GenesRegrowTime.label>
+  <Numbers_GenesRegrowTime.headerTip>Temps de régénérationdes gènes. Implanter à nouveau son xénogerme avant que ses gènes ne se régénèrent est fatal.</Numbers_GenesRegrowTime.headerTip>
+  <Numbers_Guilt.label>Coupable</Numbers_Guilt.label>
+  <Numbers_Guilt.headerTip>Considéré(e) coupable</Numbers_Guilt.headerTip>
+  <Numbers_Ideology.label>Idéologie</Numbers_Ideology.label>
+  <Numbers_Ideology.headerTip>Idéologie et certitudes</Numbers_Ideology.headerTip>
+  <Numbers_Certainty.label>Certitude</Numbers_Certainty.label>
+  <Numbers_Certainty.headerTip>Niveau de certitude</Numbers_Certainty.headerTip>
+
+  <!-- TODO: à vérifier -->
+  <Numbers_Strip.label>Déshabiller</Numbers_Strip.label>
+  <Numbers_Strip.headerTip>Déshabiller</Numbers_Strip.headerTip>
+  <Numbers_Recruitable.label>loyauté inébranlable</Numbers_Recruitable.label>
+  <Numbers_Recruitable.headerTip>Entièrement fidèle et refusera d'être recruté complètement.</Numbers_Recruitable.headerTip>
 
 </LanguageData>
